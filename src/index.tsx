@@ -4,6 +4,6 @@ import App            from './app/App'
 const root = document.getElementById('root')
 const container = createRoot(root)
 
-console.log('2')
+console.log('5')
 
 container.render(<App />)
